@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+#left-top-header p {
+    margin: 0;
+}
+#right-top-header ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+#right-top-header ul li {
+    display: inline-block;
+}
+.col {
+    display: inline-block;
+}
+div#right-top-header {
+    float: right;
+}
+#right-top-header ul li a {
+    color: #2a2727;
+    padding: 10px;
+    display: block;
+    border-right: 1px solid #847a7a;
+    /* border-left: 1px solid#847a7a; */
+}
+#right-top-header ul li:first-child a {
+    border-left: 1px solid#847a7a;
+
+}
+#left-top-header p {
+    margin: 0;
+    padding: 10px;
+}
+div#top-header {
+    border-bottom: 1px solid#433b3b;
+}
+div#contact {
+    /* display: inline-block; */
+    width: 70%;
+    padding: 10px 0;
+    float: right;
+}
+div#logo {
+    /* display: inline-block; */
+    width: 30%;
+    padding: 20px 0;
+    float: left;
+}
+#contact ul ,
+#menu-header{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#contact ul li {
+    display: inline-block;
+    margin-left: 30px;
+}
+p.icon {
+    /* display: inline-block; */
+    background: #1177cf;
+    color: #fff;
+    padding: 10px;
+    float: left;
+    border-radius: 40px;
+    margin-right: 15px;
+}
+p.content {
+    float: right;
+}
+.clearfix{
+    clear:both;
+ }
+div#menu-header {
+    background: #3a78d5;
+    /* list-style-type: none; */
+}
+#menu-header ul {
+    text-align: center;
+}
+#menu-header ul li {
+    display: inline-block;
+}
+#menu-header ul li a {
+    color: #ccc;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    font-weight: bold;
+}
+
+#menu-header ul li a:hover {
+    color: #f6f2f2;
+}
+.img-responsive{
+    width: 110%;
+}
+#slider{
+    position: relative;
+}
+.content-slider {
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+}
+.content-slider a {
+    color: #bc2222;
+}
+.content-slider h2 {
+    font-size: 40pt;
+    margin: 10px 0;
+}
+.content-slider h4 {
+    margin: 5px 0;
+    font-size: 20pt;
+}
+.col-3 {
+    width: 30%;
+    margin-right: 45px;
+    float: left;
+}
+.col-3:last-child {
+    margin-right: 0;
+}
+.content-dichvu {
+    text-align: center;
+}
+.content-dichvu {
+    text-align: center;
+}

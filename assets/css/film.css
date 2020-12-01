@@ -1,0 +1,173 @@
+svg.bi.bi-search.daodien {
+    position: relative;
+    right: 28px;
+}
+input.timhieu {
+    padding: 0px 18px;
+}
+.search {
+    position: relative;
+}
+.top-header {
+    padding-top: 20px;
+    background: #3b3a3f;
+}
+.logo-header {
+    display: inline-block;
+}
+span.phimmoi {
+    color: #fff;
+    font-size: 23px;
+}
+p.net {
+     color: #bcc620;
+}
+img.logofilms {
+    width: 108px;
+    padding-bottom: 16px;
+    padding-right: 5px;
+}
+p.newfilm {
+    color: #3fdded;
+}
+p.net {
+    margin-bottom: 1px;
+}
+input.timhieu {
+    padding: 0px 18px;
+    border-radius: 20px;
+    background: #090808;
+    margin-left: -170px;
+    margin-top: 20px;
+}
+hr.thanhngangvang {
+    border: 1pt solid#bad32e;
+    padding: 2px;
+}
+.thanhngang {
+    margin: -16px;
+    background: #d0c546;
+}
+ul.samphamto {
+    list-style-type: none;
+    /* display: inline-block; */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.sanpham {
+    float: left;
+}
+a.theloai {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+.top-top-header {
+    background: #323031;
+}
+hr.thanhngangba {
+    border: 1pt solid#766c6c;
+}
+.thanhnganghai {
+    margin-top: -16px;
+    background: #777778;
+}
+.top-mid-header {
+    background: #58565b;
+}
+.top-mid-header {
+    background: #58565b;
+    padding-bottom: 42px;
+}
+h1.phimdecu {
+    color: #dacb46;
+    font-size: 38px;
+    padding-top: 20px;
+    margin-bottom: -11px;
+}
+hr.thanhnangxammot {
+    color: #fff;
+}
+.top-foot-header {
+    background: #58565b;
+    padding-bottom: 20px;
+}
+.thanhngangxam {
+    background: #eeeaf3;
+}
+.anhfilmbeauti {
+    padding: 22px;
+    background: #1a1a1a;
+}
+.center-top-mid {
+    background: #58565b;
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+.thanhba {
+    background: #1a1a1a;
+    margin-left: -6px;
+}
+.center-center-mid {
+    background: #58565b;
+    padding-bottom: 50px;
+}
+hr.thanhxamgiua {
+    margin-top: 0px;
+    background: #fff;
+}
+a.nav-link.active.text-left.thanhxamping {
+    background: #1a1a1a;
+    color: #fff;
+}
+a.nav-link.active.text-right.thanhxampi {
+    background: #1a1a1a;
+    border: none;
+    color: #fff;
+}
+a.nav-link.active.text-left.thanhxamping {
+    background: #1a1a1a;
+    border: none;
+}
+a.nav-link.active.text-center.thanhxampin {
+    background: #1a1a1a;
+    border: #ccc;
+    color: #fff;
+}
+img.ringngay {
+    width: 370px;
+}
+img.quangcao {
+    width: 1100px;
+    margin-left: 23px;
+}
+img.quangcaodoithuong {
+    width: 110%;
+    margin-left: -25px;
+    margin-top: 57px;
+}
+img.filmone {
+    width: 100%;
+    height: auto;
+}
+.boder-phim {
+    border-bottom: 1px dashed #555;
+    margin-top: 15px;
+}
+span.first {
+    color: #fff;
+}
+span.last {
+    float: right;
+    color: #666;
+}
+p.leto {
+    color: #666;
+}
+.nav-link {
+    display: block;
+    padding: 16px 14px;
+}

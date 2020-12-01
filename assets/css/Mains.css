@@ -1,0 +1,32 @@
+img.full-image {
+    width: 100%;
+}
+div#slider {
+    margin: 0 auto;
+    width: 970px;
+    position: relative;
+}
+.cycle-prev {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 99999;
+}
+a.control-slide-prev {
+    color: #d51010;
+    /* margin: 20px; */
+    font-size: 50px;
+    padding: 20px;
+}
+.cycle-next {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    z-index: 99999;
+}
+a.control-slide-next {
+    color: #d51010;
+    /* margin: 20px; */
+    font-size: 50px;
+    padding: 20px;
+}

@@ -1,0 +1,333 @@
+li.nav-item a.nav-link {
+    padding: 10px 17px !important;
+    font-size: 18px;
+    color: #181111;
+}
+button.dangnhap {
+    border: none;
+    background: #fff;
+    margin-right: 5px;
+    color: #230ed3;
+    font-size: 19px;
+}
+button.btn.btn-primary.dangky {
+    border-radius: 24px;
+    padding: 14px;
+    font-size: 18px;
+}
+.center-header {
+    background: #a5e2f0;
+}
+.sinhthai {
+    background: #a5e2f0;
+    padding-top: 74px;
+}
+.hesinhthai {
+    margin: 38px 18px;
+}
+img.anhthuhai {
+    margin: 89px 40px;
+}
+h1.theh {
+    font-size: 52px;
+    padding-bottom: 37px;
+    color: #1e5dcf;
+}
+p.thietlap {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+a.timhieu {
+    border-radius: 25px;
+    background: #2d58d3;
+    color: #fff;
+    padding: 10px;
+}
+a.lienhe {
+    background: #f6efef;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #2a39c8;
+}
+.center-header {
+    position: relative;
+}
+i.fas.fa-phone {
+    float: left;
+    font-size: 50px;
+    position: absolute;
+    top: 91%;
+    right: 92%;
+}
+i.fas.fa-envelope-square {
+    float: right;
+    font-size: 54px;
+    position: absolute;
+    top: 92%;
+    left: 96%;
+}
+.footer-header {
+    background: #2A5FB0;
+    padding-top: 87px;
+    padding-bottom: 50px;
+}
+h2.chungtoi {
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+    padding-bottom: 10px;
+}
+p.theodoi {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+img.anhbaphan {
+    width: 83%;
+    padding-bottom: 20px;
+}
+
+.phanmem {
+    background: #fff;
+    text-align: center;
+    padding: 79px;
+    border-radius: 23px;
+}
+h3.one {
+    padding-bottom: 5px;
+}
+p.two {
+    color: #7a6a6a;
+    padding-bottom: 30px;
+}
+a.three {
+    background: #2C2C96;
+    padding: 20px;
+    border-radius: 29px;
+    color: #fff;
+}
+.top-mider {
+    padding-top: 60px;
+    background: #e9f1e8d1;
+    padding-bottom: 55px;
+}
+h2.tuvan {
+    color: #3c4fd9;
+    font-size: 51px;
+    padding-bottom: 10px;
+}
+p.cungcap {
+    color: #7c7171;
+    font-size: 21px;
+    padding-bottom: 20px;
+}
+span.five {
+    padding-right: 17px;
+    color: #3657d1;
+    padding-left: 10px;
+
+}
+p.for {
+    font-size: 23px;
+    padding-bottom: 43px;
+    background: #fff;
+    border-radius: 20px;
+}
+.seven {
+    width: 100%;
+    text-align: center;
+}
+a.eight {
+    background: #5143c4;
+    padding: 29px;
+    color: #fff;
+    border-radius: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.nice {
+    padding-bottom: 39px;
+}
+img.six {
+    height: 500px;
+    width: 477px;
+}
+.center-mider {
+    background: #c7cae1f7;
+    padding-top: 64px;
+}
+h2.ten {
+    text-align: right;
+    font-size: 37px;
+    color: #4530b8;
+    padding-bottom: 10px;
+}
+p.elenven {
+    text-align: right;
+    color: #766363;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+img.forteen {
+    width: 85%;
+}
+.thirteen {
+    text-align: center;
+    background: #fff;
+    border-radius: 57px;
+    padding: 27px;
+}
+.forteen {
+    padding-bottom: 27px;
+}
+.center-mider {
+    background: #c7cae1f7;
+    padding-top: 64px;
+    padding-bottom: 71px;
+}
+p.fiveteen {
+    font-size: 20px;
+}
+.foot-mider {
+    background: #9f959500;
+    padding-top: 53px;
+    position: relative;
+    padding-bottom: 50px;
+
+}
+.cautruyen {
+    width: 100%;
+    text-align: center;
+}
+h2.story {
+    color: #4433d1;
+    font-size: 44px;
+    padding-bottom: 71px;
+}
+h3.casestudy {
+    color: #1409c8;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+p.client {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+span.issue {
+    font-size: 24px;
+}
+p.solution {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+p.dummy {
+    font-size: 20px;
+}
+img.anhkhachhang {
+    margin: 12px 159px;
+}
+i.fas.fa-angle-double-left {
+    position: absolute;
+    float: left;
+    top: 58%;
+    right: 85%;
+    font-size: 50px;
+}
+i.fas.fa-angle-double-right {
+    position: absolute;
+    float: right;
+    top: 58%;
+    left: 85%;
+    font-size: 50px;
+}
+.end-mider {
+    padding-top: 100px;
+    background: #66565661;
+    padding-bottom: 66px;
+}
+img.anhthucte {
+    width: 78%;
+}
+.seventeen {
+    background: #fff;
+    text-align: center;
+    border-radius: 39px;
+    padding: 20px;
+}
+h3.thuvien {
+    color: #124dd1;
+    font-size: 37px;
+    padding-bottom: 20px;
+}
+p.doanhnghiep {
+    color: #726363;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+p.text {
+    color: #726363;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+p.industry {
+    color: #726363;
+    font-size: 18px;
+}
+.ungdung {
+    background: #faf6f6;
+    padding: 55px 35px;
+}
+.cut {
+    padding-bottom: 35px;
+}
+.top-footer {
+    background: #3E3E94;
+    padding-bottom: 129px;
+    padding: 98px;
+    text-align: center;
+}
+h2.tuvan {
+    color: #fff;
+    padding-bottom: 20px;
+}
+p.nhantuvan {
+    color: #fff;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+a.signup {
+    color: #212ba5;
+    background: #fff;
+    padding: 20px;
+    border-radius: 48px;
+}
+.imagemap {
+    text-align: right;
+    margin: 20px -288px;
+}
+div#end-foot {
+    background: #0E0E39;
+}
+p.senventy-one {
+    color: #fff;
+    font-size: 21px;
+}
+b.seventy-two {
+    color: #6676e9;
+}
+i.fab.fa-facebook-f {
+    font-size: 31px;
+}
+i.fab.fa-twitter {
+    font-size: 31px;
+}
+i.fab.fa-google {
+    font-size: 31px;
+}
+div#end-foot {
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
