@@ -4,6 +4,11 @@ svg.bi.bi-search.daodien {
 }
 input.timhieu {
     padding: 0px 18px;
+    border-radius: 20px;
+    background: #090808;
+    margin-left: -170px;
+    margin-top: 20px;
+    width: 299px;
 }
 .search {
     position: relative;
@@ -32,13 +37,6 @@ p.newfilm {
 }
 p.net {
     margin-bottom: 1px;
-}
-input.timhieu {
-    padding: 0px 18px;
-    border-radius: 20px;
-    background: #090808;
-    margin-left: -170px;
-    margin-top: 20px;
 }
 hr.thanhngangvang {
     border: 1pt solid#bad32e;
@@ -139,6 +137,7 @@ a.nav-link.active.text-center.thanhxampin {
 }
 img.ringngay {
     width: 370px;
+    height: 806px;
 }
 img.quangcao {
     width: 1100px;
@@ -155,7 +154,7 @@ img.filmone {
 }
 .boder-phim {
     border-bottom: 1px dashed #555;
-    margin-top: 15px;
+    margin-top: 7px;
 }
 span.first {
     color: #fff;
@@ -170,4 +169,157 @@ p.leto {
 .nav-link {
     display: block;
     padding: 16px 14px;
+}
+img.td_image_phimchieurapmoi {
+    width: 131%;
+    display: block;
+    padding: 15px;
+}
+.td_innter_phimchieurapmoi {
+    width: 100%;
+}
+p.td_headline_phimchieurap {
+    color: #dacb46;
+    text-shadow: 1px 1px 1px #1a1a1a;
+    /* margin-right: 22px; */
+    padding-left: 22px;
+    font-size: 35px;
+}
+.td_container {
+    padding-top: 24px;
+    background: #58565b;
+    padding-bottom: 40px;
+}
+.td_header-benphaiphimrapmoi {
+    margin-left: 20px;
+}
+p.td_content_thanghang.trailer {
+    display: inline-block;
+    color: #dacb46;
+    font-size: 22px;
+}
+img.td_img_star.td_content_thanghang {
+    width: 48px;
+    margin-bottom: 20px;
+    background: #dacb46;
+    border-radius: 39px;
+}
+.td_innter_benphaiphimrapmoi {
+    margin-left: 20px;
+    height: 600px;
+    overflow: hidden;
+    overflow: scroll;
+    border-radius: 27px;
+    padding: 15px;
+    background: #333;
+    border: 1pt solid#433535;
+}
+.td_intro_benphairapmoi {
+    height: 900px;
+    background: #333;
+}
+img.td_img_benphairapmoi {
+    padding-bottom: 20px;
+}
+p.td_intro_daquy {
+    color: #46E1FF;
+}
+p.td_intro_rungsau {
+    color: #fff;
+}
+.td_description_benphairapmoi {
+    border-bottom: 1pt solid#555;
+    margin-top: 7px;
+}
+.td_inner_footer {
+    margin-left: 37px;
+    margin-top: 39px;
+}
+.td_inner_footer {
+    margin-left: 37px;
+}
+.td_content_footer {
+    margin-top: 20px;
+}
+img.td_img_footer {
+    width: 54px;
+    margin-bottom: 10px;
+}
+span.td_into_footer {
+    color: #dacb46;
+    margin-left: 10px;
+    font-size: 26px;
+}
+.td_content_footer {
+    border: 1pt solid#221e1e;
+    border-radius: 9px;
+    background: #161618;
+    padding: 10px;
+}
+p.td_headline_p {
+    color: #fff;
+    border-radius: 10px;
+    background: #5c4d4d;
+    text-align: center;
+}
+img.td_img_hosodienvien {
+    width: 43px;
+}
+p.td_intro_hosodienvien {
+    color: #dacb46;
+    font-size: 25px;
+}
+p.td_intro_hosodienvien.td_innter_chinhsua {
+    display: inline-block;
+}
+.td_inter_hosodienvien {
+    margin-left: 31px;
+}
+img.td_image_charlie {
+    width: 100%;
+    border: 1pt solid#201e1e;
+    border-radius: 28px;
+    background: #181616;
+    padding: 10px;
+}
+.td_innter_human {
+    border: 1pt solid#393535;
+    background: #141111;
+}
+p.td_intro_charlie {
+    color: #44e2ff;
+    margin-left: 23px;
+}
+.td_inner_thanhvang {
+    margin: -16px;
+    background: #d0c546;
+    margin-bottom: 34px;
+}
+hr.td_intro_thanhvang {
+    border: 1pt solid#bad32e;
+    padding: 2px;
+}
+.td_container_footer {
+    padding-top: 34px;
+    background: #000;
+    padding-bottom: 50px;
+}
+h4.td_headline_phimle {
+    color: #44E2FF;
+    padding-bottom: 25px;
+}
+p.td_headline_sapchieu {
+    color: #fff;
+}
+.td_content_lienhe {
+    color: #fff;
+}
+p.td_content_ip {
+    color: #fff;
+}
+img.td_img_hq {
+    width: 134px;
+    border-radius: 16px;
+    background: #181616;
+    margin-left: 36px;
 }
